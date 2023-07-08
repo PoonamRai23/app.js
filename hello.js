@@ -1,1 +1,7 @@
-console.log("hello world")
+// console.log("hello world")
+product=(a,b)=>{
+    return(a*b)
+}
+var x = product(10,32)
+console.log(x)
+
